@@ -7,7 +7,6 @@ I'm a passionate developer with a keen interest in building web and backend appl
 - 👯 **Looking to collaborate on:** Full-stack projects, particularly in the domains of logistics and community platforms.
 - 💬 **Ask me about:** React, Tailwind CSS, MongoDB, fine-tuning AI models, and more!
 - 📫 **How to reach me:** [Email](paigudekaran28272@gmail.com) | [LinkedIn](linkedin.com/in/karan-paigude-b96301235) | [Twitter](https://x.com/karan2827) | [LeetCode](https://leetcode.com/u/narak_2827/) | [GeeksForGeeks](https://www.geeksforgeeks.org/user/paigudekagrk0/)
-- 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I’m certified as a full-stack developer from IBM and love exploring new AI platforms!
 
 ---
